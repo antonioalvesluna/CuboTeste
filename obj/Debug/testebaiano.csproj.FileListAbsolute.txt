@@ -1,0 +1,6 @@
+C:\Projetos\TesteBaiano\testebaiano\testebaiano\bin\Debug\testebaiano.exe.config
+C:\Projetos\TesteBaiano\testebaiano\testebaiano\bin\Debug\testebaiano.exe
+C:\Projetos\TesteBaiano\testebaiano\testebaiano\bin\Debug\testebaiano.pdb
+C:\Projetos\TesteBaiano\testebaiano\testebaiano\obj\Debug\testebaiano.csprojResolveAssemblyReference.cache
+C:\Projetos\TesteBaiano\testebaiano\testebaiano\obj\Debug\testebaiano.exe
+C:\Projetos\TesteBaiano\testebaiano\testebaiano\obj\Debug\testebaiano.pdb
